@@ -1,0 +1,8 @@
+[
+  { "Name": "Ali", "Department": "HR", "Salary": 50000, "Age": 28, "Joining_Year": 2019 },
+  { "Name": "Sara", "Department": "IT", "Salary": 60000, "Age": 32, "Joining_Year": 2018 },
+  { "Name": "Ahmed", "Department": "Finance", "Salary": 55000, "Age": 30, "Joining_Year": 2020 },
+  { "Name": "Fatima", "Department": "IT", "Salary": 62000, "Age": 29, "Joining_Year": 2021 },
+  { "Name": "Bilal", "Department": "HR", "Salary": 48000, "Age": 35, "Joining_Year": 2017 },
+  { "Name": "Hina", "Department": "Finance", "Salary": 57000, "Age": 31, "Joining_Year": 2019 }
+]
